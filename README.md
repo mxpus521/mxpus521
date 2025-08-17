@@ -87,7 +87,7 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mxpus521&theme=radical&hide_border=false&layout=compact" alt="Top Languages"/>
 
 ### 🔝 高光贡献仓库
-![](https://github-contributor-stats.vercel.app/api?username=mxpus521&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=mxpus521&limit=5&theme=radical&combine_all_yearly_contributions=true&hide=B" alt="Top Contributed Repo Stats"/>
 
 </div>
 
