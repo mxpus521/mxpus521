@@ -1,119 +1,122 @@
-<!--suppress HtmlDeprecatedAttribute -->
+<!--suppress HtmlDeprecatedAttribute-->
 <div align="center">
 
-<!-- 标题 -->
+<!-- 动态标题，科技感 + AI 元素 -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Welcome+to+my+Universe+%F0%9F%8C%8C;I'm+mxpus521+%F0%9F%92%BB;Crafting+Future+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=00F9FF&center=true&vCenter=true&multiline=true&width=780&height=80&lines=Welcome+to+the+Future+Lab;Powered+by+mxpus521;Building+the+Next+Era+with+AI+%26+Code" alt="Typing SVG" />
 </h1>
 
-<!-- 简介 -->
+<!-- 个性签名 -->
 <h3 align="center">
-  <em>Beginner Developer Exploring the World of Code</em>
+  <em>🚀 Visionary Full-Stack Engineer | AI Innovator | Open Source Advocate 🤖</em>
 </h3>
 
-<!-- 社交媒体图标 -->
+<!-- 科技感社交媒体链接 -->
 <p align="center">
   <a href="https://github.com/mxpus521" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:mxpus521@example.com">
-    <img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-00F9FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
+  </a>
+  <a href="https://mxpus521.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
   </a>
 </p>
 
 <!-- 分割线 -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="10%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80%"/>
 
 </div>
 
-<!-- 技术栈 -->
+## 🧬 About Me
+<div align="center">
+
+> *"In the age of AI, vision is the new code."*
+
+我是 **mxpus521**，一位专注于 **人工智能驱动的全栈开发** 的技术探索者。我的目标是将最前沿的科技理念落地为具有现实价值的产品和解决方案，让代码成为人类认知的延伸工具。
+
+### 💡 核心能力
+- **AI 应用研发**：大型语言模型、深度学习、自然语言处理
+- **全栈架构构建**：React / Next.js + Node.js / Go + Cloud Native
+- **云原生与自动化**：Kubernetes / Docker / CI/CD / DevOps
+- **数据驱动设计**：数据可视化 / 数据工程 / 智能分析
+
+### 🔭 研究焦点
+- AI 辅助编程与创意生成（AIGC）
+- 自适应 UI/UX（用户可交互的 AI 界面）
+- 个性化智能工具与助手
+- 区块链 + AI 融合应用
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
-  
-### Languages
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%2323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
-### Frameworks & Libraries
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+**Languages**  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
+**Frameworks & Libraries**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-### Design Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white)
+**Cloud & DevOps**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
-<!-- 关于我 -->
-## 👋 About Me
+---
+
+## 📈 GitHub Analytics
 
 <div align="center">
-  
-> *"Pioneering today, inspiring tomorrow."*
 
-欢迎来到我的编码宇宙！我是 **mxpus521**，一名热衷于构建未来技术的全栈开发者与开源布道者。我致力于用代码改变世界，让创意化为现实，无论是后端架构还是前端体验，我都力求做到极致。
-
-### 💡 核心优势
-- 全栈开发能力：从数据库设计到前端交互一手包办
-- 开源贡献者：热爱分享知识与经验
-- 技术布道者：推动先进工具与优雅代码实践落地
-
-### 🚀 当前聚焦
-- 高性能 Web 应用构建
-- 云原生与分布式架构
-- AI 辅助开发与自动化
-
-### ✨ 信条
-**“代码，是通往未来的桥梁。”**
-
-<!-- GitHub 统计 -->
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mxpus521&theme=radical&hide_border=false" alt="GitHub Stats"/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mxpus521&theme=radical&hide_border=false" alt="GitHub Streak"/><br/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mxpus521&theme=radical&hide_border=false&layout=compact" alt="Top Languages"/>
-
-### 🔝 高光贡献仓库
-<img src="https://github-contributor-stats.vercel.app/api?username=mxpus521&limit=5&theme=radical&combine_all_yearly_contributions=true&hide=B" alt="Top Contributed Repo Stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mxpus521&theme=react&hide_border=true&bg_color=0D1117&title_color=00F9FF&icon_color=00F9FF" height="150" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mxpus521&theme=black-ice&hide_border=true&stroke=00F9FF&ring=00F9FF&fire=00F9FF&currStreakNum=FFFFFF&sideNums=00F9FF" height="150" alt="GitHub Streak"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mxpus521&theme=react&hide_border=true&layout=compact&bg_color=0D1117&title_color=00F9FF" height="150" alt="Top Languages"/>
 
 </div>
 
-<!-- 项目展示 -->
-## 🚀 Projects
+---
+
+## 🚀 Projects Showcase
 
 <div align="center">
-  
-> *Coming Soon...*  
-> 正在努力开发中，敬请期待！
+
+### 🤖 AI-Powered Dev Toolkit
+> 一套专为开发者设计的 AI 工具集合，包括代码生成、文档总结、自动化部署等功能，让开发从未如此高效。
+
+### 🌐 Quantum UI Framework
+> 面向未来的 UI 框架，内置 AI 交互 API，可根据用户行为动态变化布局与内容。
+
+### 🧠 Neural Content Engine
+> 内容生成与推荐平台，利用深度学习模型精准推送个性化内容。
 
 </div>
 
-<!-- 分割线 -->
+---
+
+## 📬 Get in Touch
+
 <div align="center">
-  
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-### 📬 Get in Touch
+💬 有任何想法或合作意向？欢迎联系我！  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mxpus521)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mxpus521)  
 
-<p>
-  <em>
-    I'm always open to discussing new projects, creative ideas or opportunities to be part of your vision.
-    <br/>
-    我很乐意讨论新项目、创意想法或参与您的愿景。
-  </em>
-</p>
+🌐 **Website**: [mxpus521.dev](https://mxpus521.dev)  
+📧 **Email**: mxpus521@example.com  
 
 </div>
