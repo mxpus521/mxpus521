@@ -82,9 +82,9 @@
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=mxpus521&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mxpus521&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mxpus521&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mxpus521&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mxpus521&theme=radical&hide_border=false&layout=compact)
 
 ### 🔝 高光贡献仓库
 ![](https://github-contributor-stats.vercel.app/api?username=mxpus521&limit=5&theme=radical&combine_all_yearly_contributions=true)
